@@ -1,0 +1,16 @@
+{
+  "name": "ssl renegotiation",
+  "descr": "",
+  "protocol": "",
+  "port": "",
+  "options": [
+    {
+      "threads": "5",
+      "delay": "69",
+      "programm": "script",
+      "args": "",
+      "data_type":"unicode",
+      "data":"qwerty"
+    }
+  ]
+}
