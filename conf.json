@@ -6,6 +6,7 @@
   "options": [
     {
       "threads": "5",
+      "timeout":"2000",
       "delay": "69",
       "programm": "script",
       "args": "",
