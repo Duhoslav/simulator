@@ -1,13 +1,19 @@
 {
   "name": "ssl renegotiation",
-  "descr": "",
-  "protocol": "",
-  "port": "",
+  "descr": "ssl renegotiation attack",
+  "protocol": "ssl/tls",
   "options": [
     {
-      "threads": "5",
+      "threads": "",
+      "timeout":"8000",
+      "programm": "script",
+      "args": "",
+      "data_type":"unicode",
+      "data":"qwerty"
+    },
+    {
+      "threads": "",
       "timeout":"2000",
-      "delay": "69",
       "programm": "script",
       "args": "",
       "data_type":"unicode",
