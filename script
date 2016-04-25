@@ -1,2 +1,3 @@
 #!/bin/bash 
-echo "atata"
+curl https://habrahabr.ru/post/142816/
+

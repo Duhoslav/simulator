@@ -4,7 +4,8 @@
   "protocol": "ssl/tls",
   "options": [
     {
-      "threads": "",
+      "threads": "2",
+      "legal_traffic_size": "6969",
       "timeout":"8000",
       "programm": "script",
       "args": "",
@@ -12,7 +13,8 @@
       "data":"qwerty"
     },
     {
-      "threads": "",
+      "threads": "3",
+      "legal_traffic_size": "6969",
       "timeout":"2000",
       "programm": "script",
       "args": "",
